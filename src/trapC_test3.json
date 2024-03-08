@@ -1,0 +1,69 @@
+[
+    {
+      "time": "08:00",
+      "legYaw": -45.35,
+      "legPitch": -18.61,
+      "legRoll": 74.92
+    },
+    {
+      "time": "09:00",
+      "legYaw": 84.09,
+      "legPitch": -35.56,
+      "legRoll": 43.18
+    },
+    {
+      "time": "10:00",
+      "legYaw": 51.15,
+      "legPitch": 21.09,
+      "legRoll": 16.58
+    },
+    {
+      "time": "11:00",
+      "legYaw": -34.79,
+      "legPitch": 21.97,
+      "legRoll": -38.45
+    },
+    {
+      "time": "12:00",
+      "legYaw": -76.58,
+      "legPitch": 70.54,
+      "legRoll": 33.61
+    },
+    {
+      "time": "13:00",
+      "legYaw": -29.78,
+      "legPitch": 26.85,
+      "legRoll": -45.72
+    },
+    {
+      "time": "14:00",
+      "legYaw": -61.04,
+      "legPitch": 51.51,
+      "legRoll": 61.73
+    },
+    {
+      "time": "15:00",
+      "legYaw": 85.45,
+      "legPitch": -48.05,
+      "legRoll": 45.93
+    },
+    {
+      "time": "16:00",
+      "legYaw": -34.25,
+      "legPitch": -31.27,
+      "legRoll": 6.32
+    },
+    {
+      "time": "17:00",
+      "legYaw": 14.47,
+      "legPitch": 13.26,
+      "legRoll": 22.78
+    },
+    {
+      "time": "18:00",
+      "legYaw": -16.83,
+      "legPitch": -66.61,
+      "legRoll": -18.96
+    }
+  ]
+  
